@@ -37,4 +37,12 @@ Before you begin, make sure you have the following:
   - Blynk Library for Python
   - Twilio (for SMS and WhatsApp notifications)
   - Raspberry Pi GPIO Library
-  - Additional Python packages listed in `requirements.txt`
+  - Additional Python packages
+
+## Results
+![WhatsApp Image 2025-05-10 at 11 53 06_106e8fa1](https://github.com/user-attachments/assets/affc9d75-5a6b-479e-aeb8-36690f5c7595)
+
+## Perfomace Metrics
+![Results](https://github.com/user-attachments/assets/8de1c8b3-85d7-48c1-86d8-aa245dd4dc53)
+
+
