@@ -18,6 +18,7 @@ The system architecture consists of the following components:
 - **Blynk App**: A mobile app to receive alerts, view status, and control system components.
 - **Environmental Sensors**: Includes water level sensors and rain sensors to provide real-time environmental data.
 
+
 ## Prerequisites
 
 Before you begin, make sure you have the following:
@@ -39,8 +40,28 @@ Before you begin, make sure you have the following:
   - Raspberry Pi GPIO Library
   - Additional Python packages
 
+## Flow Chart
+![image](https://github.com/user-attachments/assets/d5fc0706-78ab-45ce-b154-4aa343a99dbb)
+
+## Digital Circuit
+![image](https://github.com/user-attachments/assets/164b57de-7d57-4681-81fb-52b86497765b)
+
+## Blynk DashBoard
+![image](https://github.com/user-attachments/assets/f751570e-287d-4792-94a3-ad0d10aa546e)
+
+
 ## Results
-![WhatsApp Image 2025-05-10 at 11 53 06_106e8fa1](https://github.com/user-attachments/assets/affc9d75-5a6b-479e-aeb8-36690f5c7595)
+  **Animals Detected**
+  ![WhatsApp Image 2025-05-10 at 11 53 06_106e8fa1](https://github.com/user-attachments/assets/affc9d75-5a6b-479e-aeb8-36690f5c7595)
+
+  **Alert Notifications**
+    **Call Alert**
+    ![image](https://github.com/user-attachments/assets/802ff722-6eec-4bb3-bdba-66ace3d371fc)
+    **Mail and SMS Alert**
+    ![image](https://github.com/user-attachments/assets/0eea0607-4cf4-4b06-81c5-abe5688a465c)
+    **Whatsapp Alert**
+    ![image](https://github.com/user-attachments/assets/9c7345da-9a2a-49de-a63d-499a4e926001)
+
 
 ## Perfomace Metrics
 ![Results](https://github.com/user-attachments/assets/8de1c8b3-85d7-48c1-86d8-aa245dd4dc53)
