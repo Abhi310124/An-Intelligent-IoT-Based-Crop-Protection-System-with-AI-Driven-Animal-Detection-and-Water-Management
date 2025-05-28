@@ -66,6 +66,9 @@ Before you begin, make sure you have the following:
 
 ## Conclusion
 
+![pic1](https://github.com/user-attachments/assets/9457fc42-3875-436b-a510-e6a507d46907)
+
+
 The **An-Intelligent-IoT-Based-Crop-Protection-System-with-AI-Driven-Animal-Detection-and-Water-Management** project is a comprehensive solution designed to detect and alert farmers about the presence of specific animals (birds, monkeys, and wild boars) in their fields. By integrating YOLOv8, Raspberry Pi 5, and several peripherals, the system efficiently identifies and classifies animals in real-time. The project also incorporates various notification methods, including SMS, WhatsApp, and email, to immediately alert the user when an animal is detected.
 
 With additional features like controlling a servo motor, buzzer, and LEDs through Blynk, the Digital Scarecrow offers a smart, automated way to protect crops from wildlife damage. The system’s ability to display real-time and historical data through the Blynk app further enhances the user experience, enabling convenient monitoring and control from anywhere.
